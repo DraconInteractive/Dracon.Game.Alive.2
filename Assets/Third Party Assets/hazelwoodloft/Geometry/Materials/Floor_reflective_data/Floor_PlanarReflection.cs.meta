@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f07ff02c66eae3a448dc98e79f98f391
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Geometry/Materials/Floor_reflective_data/Floor_PlanarReflection.cs
+  uploadId: 410857

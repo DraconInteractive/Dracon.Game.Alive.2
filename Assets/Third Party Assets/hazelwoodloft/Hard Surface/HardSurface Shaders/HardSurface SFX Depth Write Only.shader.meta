@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5593ec72dcc3d004785bda8e166098f6
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurface SFX
+    Depth Write Only.shader
+  uploadId: 410857

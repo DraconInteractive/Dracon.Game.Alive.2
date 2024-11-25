@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ad6ee407ca058b44db23b000fffb657f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Scripts/LightMapDataContainerObject.cs
+  uploadId: 410857

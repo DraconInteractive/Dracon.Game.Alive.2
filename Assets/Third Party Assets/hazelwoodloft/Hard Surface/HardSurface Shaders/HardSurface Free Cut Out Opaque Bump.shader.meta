@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d856234f0ac72fc429cfefd1783f6d35
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurface Free
+    Cut Out Opaque Bump.shader
+  uploadId: 410857

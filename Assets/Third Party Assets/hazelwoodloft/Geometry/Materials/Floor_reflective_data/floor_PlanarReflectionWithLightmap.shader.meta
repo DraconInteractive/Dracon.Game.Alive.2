@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 781d24639cb69964fa63edc06ac8d0c2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Geometry/Materials/Floor_reflective_data/floor_PlanarReflectionWithLightmap.shader
+  uploadId: 410857

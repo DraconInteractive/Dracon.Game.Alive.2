@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0729acd2e94790f4d92a93feef56cfd2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Geometry/Materials/Floor_reflective_data_MirrorReflection/Rotate.cs
+  uploadId: 410857

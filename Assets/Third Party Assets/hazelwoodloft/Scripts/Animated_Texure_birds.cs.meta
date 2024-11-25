@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ea9e76d4b9f9364cad532896573cda0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Scripts/Animated_Texure_birds.cs
+  uploadId: 410857

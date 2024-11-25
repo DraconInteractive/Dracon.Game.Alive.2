@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 00b83aac17bc3b3408bc435130618e4b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurfacePro
+    Hidden Front Opaque.shader
+  uploadId: 410857

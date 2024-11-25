@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3f413b5034a544d85a344a46f8ea56c6
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Shaders/Mobile-VertexLit-NeverBlur.shader
+  uploadId: 410857

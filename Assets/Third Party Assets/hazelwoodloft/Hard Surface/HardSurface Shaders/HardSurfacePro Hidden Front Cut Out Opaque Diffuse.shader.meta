@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1272417b4489a5a4fb33323c3a3b634a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurfacePro
+    Hidden Front Cut Out Opaque Diffuse.shader
+  uploadId: 410857

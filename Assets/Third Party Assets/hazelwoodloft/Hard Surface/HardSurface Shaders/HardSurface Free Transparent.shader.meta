@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 33adff95322aba746a332768c7926b3e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurface Free
+    Transparent.shader
+  uploadId: 410857

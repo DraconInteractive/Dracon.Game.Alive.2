@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 86d77ab71a0859f468792a8669591a98
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Geometry/Materials/Floor_reflective_data_MirrorReflection/MirrorReflection.shader
+  uploadId: 410857

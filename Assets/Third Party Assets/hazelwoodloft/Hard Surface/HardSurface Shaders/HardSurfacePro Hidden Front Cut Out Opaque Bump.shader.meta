@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 08a39ccb8675b174faa5abceaf7ec92f
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurfacePro
+    Hidden Front Cut Out Opaque Bump.shader
+  uploadId: 410857

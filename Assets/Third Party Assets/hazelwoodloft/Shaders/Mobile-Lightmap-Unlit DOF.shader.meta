@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 66be50de60f324b738d7af83b9bcf085
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Shaders/Mobile-Lightmap-Unlit DOF.shader
+  uploadId: 410857

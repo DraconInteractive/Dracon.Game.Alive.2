@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f42814fd88cbad04cbd4da4f8eac8deb
+timeCreated: 1440464669
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Shaders/glass_correct2.shader
+  uploadId: 410857

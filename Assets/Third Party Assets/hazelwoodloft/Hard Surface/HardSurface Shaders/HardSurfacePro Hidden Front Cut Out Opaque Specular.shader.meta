@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 04491dfd2143af943955c0fd04d40512
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurfacePro
+    Hidden Front Cut Out Opaque Specular.shader
+  uploadId: 410857

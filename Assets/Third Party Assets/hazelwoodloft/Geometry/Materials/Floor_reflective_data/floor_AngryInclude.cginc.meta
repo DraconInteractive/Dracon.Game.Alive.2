@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 101bc6954f639194f91681096c2a3e8b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Geometry/Materials/Floor_reflective_data/floor_AngryInclude.cginc
+  uploadId: 410857

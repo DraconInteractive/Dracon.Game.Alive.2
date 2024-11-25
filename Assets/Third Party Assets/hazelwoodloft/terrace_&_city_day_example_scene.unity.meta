@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 5e340ce5dbfb39848b447a1fe9042772
+labels:
+- plant
+- bench
+- sundeck
+- balcony
+- patio
+- terrace
+- lightmaped
+- luxurious
+- high-end
+- night
+- day
+- minimal
+- exterior
+- interior
+- architecture
+- contemporary
+- loft
+- modern
+- realistic
+- urban
+- plane
+- birds
+- sun
+- skyline
+- cityscape
+- city
+- photoreal
+- low-poly
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/terrace_&_city_day_example_scene.unity
+  uploadId: 410857

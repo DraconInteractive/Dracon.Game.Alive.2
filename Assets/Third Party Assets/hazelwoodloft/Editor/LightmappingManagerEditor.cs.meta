@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac6524ae4673220418e10c7da9da72e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Editor/LightmappingManagerEditor.cs
+  uploadId: 410857

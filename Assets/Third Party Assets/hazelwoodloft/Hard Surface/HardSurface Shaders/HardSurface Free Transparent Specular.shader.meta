@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 167181d1ba1f58c41bf0a83eec63c9db
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Hard Surface/HardSurface Shaders/HardSurface Free
+    Transparent Specular.shader
+  uploadId: 410857

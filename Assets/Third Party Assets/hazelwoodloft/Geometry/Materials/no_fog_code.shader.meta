@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d978ca7c56ac6ae4990086e03f2b21a3
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38412
+  packageName: City & Terrace Pack
+  packageVersion: 9.0
+  assetPath: Assets/hazelwoodloft/Geometry/Materials/no_fog_code.shader
+  uploadId: 410857
