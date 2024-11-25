@@ -1,3 +1,4 @@
+using Dracon;
 using UnityEngine;
 
 public class Player : Sentient
@@ -5,12 +6,15 @@ public class Player : Sentient
     public static Player Instance;
     public PlayerCameraController Camera;
     public PlayerInteraction Interaction;
+    public PlayerInput Input;
     
     protected override void InternalAwake()
     {
         base.InternalAwake();
-        Interaction.onTestKey += OnTest;
-        Interaction.onZoomChange += OnZoom;
+        
+        Input.keyEvents[PlayerInput.KeyMap.Test].onKeyDown += OnTest;
+        Input.keyEvents[PlayerInput.KeyMap.Zoom].onKeyDown += () => OnZoom(true);
+        Input.keyEvents[PlayerInput.KeyMap.Zoom].onKeyUp += () => OnZoom(false);
         Instance = this;
     }
 
@@ -28,6 +32,7 @@ public class Player : Sentient
 
     public void OnZoom(bool zoomed)
     {
+        Debug.Log("Zoom change: " + zoomed);
         if (InCombat)
         {
             Camera.SetCombat(zoomed);

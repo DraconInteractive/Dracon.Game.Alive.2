@@ -1,38 +1,33 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using TMPro;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using PlayerInput = Dracon.PlayerInput;
 
-public class PlayerInteraction : MonoBehaviour
+public class PlayerInteraction : SentientModule
 {
     public Transform eyes;
     public LayerMask targetLayer;
     public float range;
-
-    public KeyCode interactionKey;
-    public KeyCode testKey;
-    public KeyCode zoomKey;
+    
     [ReadOnly]
     public Interactable currentTarget;
     
     [Header("UI")] 
     public TMP_Text interactableTxt;
-
-    private Action onGainTarget, onLostTarget;
-    public Action<bool> onZoomChange;
-    public Action onTestKey;
     
-    private void OnEnable()
+    private Action onGainTarget, onLostTarget;
+
+    public override void SentientAwake()
     {
+        base.SentientAwake();
         onGainTarget += OnGainTarget;
         onLostTarget += OnLostTarget;
-    }
-
-    private void OnDisable()
-    {
-        onGainTarget -= OnGainTarget;
-        onLostTarget -= OnLostTarget;
+        Player.Instance.Input.keyEvents[PlayerInput.KeyMap.Interaction].onKeyDown += TryInteract;
     }
 
     private void Update()
@@ -65,26 +60,16 @@ public class PlayerInteraction : MonoBehaviour
                 onGainTarget?.Invoke();
             }
         }
+    }
 
-        if (currentTarget != null && currentTarget.CanInteract() && Input.GetKeyDown(interactionKey))
+    private void TryInteract()
+    {
+        if (currentTarget != null && currentTarget.CanInteract())
         {
             currentTarget.Interact();
         }
-
-        if (Input.GetKeyDown(zoomKey))
-        {
-            onZoomChange?.Invoke(true);
-        }
-        else if (Input.GetKeyUp(zoomKey))
-        {
-            onZoomChange?.Invoke(false);
-        }
-        else if (Input.GetKeyDown(testKey))
-        {
-            onTestKey?.Invoke();
-        }
     }
-
+    
     private void OnGainTarget()
     {
         interactableTxt.text = currentTarget.DisplayName;

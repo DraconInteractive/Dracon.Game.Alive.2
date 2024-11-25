@@ -11,10 +11,16 @@ public class Sentient : SerializedMonoBehaviour
     public Inventory inventory;
     public SentientStats stats;
     public bool InCombat;
-    
+
+    private SentientModule[] modules;
     private void Awake()
     {
         InternalAwake();
+        modules = GetComponents<SentientModule>();
+        foreach (var module in modules)
+        {
+            module.SentientAwake();
+        }
     }
 
     private void Update()

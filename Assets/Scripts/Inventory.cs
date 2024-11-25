@@ -3,7 +3,7 @@ using System.Linq;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-public class Inventory : MonoBehaviour
+public class Inventory : SentientModule
 {
     public List<ItemInstance> items = new();
 
