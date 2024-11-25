@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 019e3ae84615d47f7a440eda6cd82f3d
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61507
+  packageName: Gun Range - Gun and Weapon FX - Nova Sound
+  packageVersion: GRG1
+  assetPath: Assets/Gun Range_48k_24bit/2 45 Hand Guns Shoot Out - Nova Sound.wav
+  uploadId: 115252

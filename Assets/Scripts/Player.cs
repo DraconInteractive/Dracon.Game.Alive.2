@@ -7,6 +7,9 @@ public class Player : Sentient
     public PlayerCameraController Camera;
     public PlayerInteraction Interaction;
     public PlayerInput Input;
+
+    [Space, Header("UI")] 
+    public CanvasGroup combatUIGroup;
     
     protected override void InternalAwake()
     {
@@ -22,17 +25,18 @@ public class Player : Sentient
     {
         base.EnterCombat();
         Camera.SetCombat(false);
+        combatUIGroup.alpha = 1;
     }
 
     public override void ExitCombat()
     {
         base.ExitCombat();
         Camera.SetStandard();
+        combatUIGroup.alpha = 0;
     }
 
     public void OnZoom(bool zoomed)
     {
-        Debug.Log("Zoom change: " + zoomed);
         if (InCombat)
         {
             Camera.SetCombat(zoomed);

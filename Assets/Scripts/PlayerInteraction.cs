@@ -32,6 +32,11 @@ public class PlayerInteraction : SentientModule
 
     private void Update()
     {
+        UpdateTargetFocus();
+    }
+
+    private void UpdateTargetFocus()
+    {
         Interactable tempTarget = null;
         if (Physics.Raycast(eyes.position, eyes.forward, out var h, range, targetLayer.value))
         {
