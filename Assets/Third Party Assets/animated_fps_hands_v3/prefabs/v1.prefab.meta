@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3fb008e72cea2e4f8a35c425d0d7238
+timeCreated: 1481548450
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52266
+  packageName: Animated FPS Hands v3.0
+  packageVersion: 3.0
+  assetPath: Assets/animated_fps_hands_v3/prefabs/v1.prefab
+  uploadId: 348878

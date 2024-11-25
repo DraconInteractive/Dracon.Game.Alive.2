@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0c51e5663809304092818fe3da2ed77
+timeCreated: 1441836278
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52266
+  packageName: Animated FPS Hands v3.0
+  packageVersion: 3.0
+  assetPath: Assets/animated_fps_hands_v3/animator/fps_hands_AC.controller
+  uploadId: 348878

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0647ddee0e1b1f468231f7db5b3732f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52266
+  packageName: Animated FPS Hands v3.0
+  packageVersion: 3.0
+  assetPath: Assets/animated_fps_hands_v3/materials/v3.mat
+  uploadId: 348878

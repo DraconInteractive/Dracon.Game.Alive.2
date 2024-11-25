@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d99d409bbc933334d8f9f54681c93ac8
+timeCreated: 1470142886
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52266
+  packageName: Animated FPS Hands v3.0
+  packageVersion: 3.0
+  assetPath: Assets/animated_fps_hands_v3/scripts/mouse_look.cs
+  uploadId: 348878
