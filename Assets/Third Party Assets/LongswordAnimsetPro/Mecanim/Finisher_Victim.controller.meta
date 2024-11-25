@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 649c5e9c75feee84b93b21785fa8692b
+timeCreated: 1574861180
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92239
+  packageName: Longsword Animset Pro
+  packageVersion: 1.0
+  assetPath: Assets/LongswordAnimsetPro/Mecanim/Finisher_Victim.controller
+  uploadId: 340990

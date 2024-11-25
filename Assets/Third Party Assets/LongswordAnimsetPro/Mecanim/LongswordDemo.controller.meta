@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 519daef73cfe90f468366301e819ad85
+timeCreated: 1490891280
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92239
+  packageName: Longsword Animset Pro
+  packageVersion: 1.0
+  assetPath: Assets/LongswordAnimsetPro/Mecanim/LongswordDemo.controller
+  uploadId: 340990
