@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c05e8b9c38759aa48935a0effedc3bce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195888
+  packageName: Interactions Animations
+  packageVersion: 1.1
+  assetPath: Assets/Polygonmaker/Polygonmaker Animations/Interactions/Scenes/Source/Animators
+    for render/Anim_Regular@fainting.controller
+  uploadId: 642072

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f30dc6d8b75b4f40900760118de67a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195888
+  packageName: Interactions Animations
+  packageVersion: 1.1
+  assetPath: Assets/Polygonmaker/Polygonmaker Animations/Interactions/Scenes/Source/Animators
+    for render/Anim_Regular@chest_close.controller
+  uploadId: 642072

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5bedc91a2a1ca7244a36ba3da73f587e
+timeCreated: 1529600136
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195888
+  packageName: Interactions Animations
+  packageVersion: 1.1
+  assetPath: Assets/Polygonmaker/Polygonmaker Animations/Interactions/Scenes/Source/Ground.mat
+  uploadId: 642072

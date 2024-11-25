@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 566bf943e71128745aa2d6dde4419679
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195888
+  packageName: Interactions Animations
+  packageVersion: 1.1
+  assetPath: Assets/Polygonmaker/Polygonmaker Animations/Interactions/Scenes/Source/Animators
+    for render/Anim_Regular@search.controller
+  uploadId: 642072
