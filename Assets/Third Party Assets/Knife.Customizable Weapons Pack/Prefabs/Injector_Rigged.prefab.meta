@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ecd59401be344e145b6734c3c24c7139
+timeCreated: 1537274888
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/Injector_Rigged.prefab
+  uploadId: 271015

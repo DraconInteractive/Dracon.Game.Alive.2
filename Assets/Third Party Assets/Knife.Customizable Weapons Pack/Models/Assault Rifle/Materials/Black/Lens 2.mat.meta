@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 135b3f846cf989f4a96766ae7a2e5434
+timeCreated: 1537265691
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Assault Rifle/Materials/Black/Lens
+    2.mat
+  uploadId: 271015

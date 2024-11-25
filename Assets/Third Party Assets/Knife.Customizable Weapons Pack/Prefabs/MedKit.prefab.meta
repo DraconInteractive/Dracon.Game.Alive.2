@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6b1d083b9f8a4f8408e99a81aeb118d6
+timeCreated: 1537274891
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/MedKit.prefab
+  uploadId: 271015

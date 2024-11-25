@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: eac4858c2db3fa642a22e081f02fce85
+timeCreated: 1537265416
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 12 x lens 1
+    100002: 12 x lens 2
+    100004: 12x sight
+    100006: 4x sight
+    100008: 4x sightr lens1
+    100010: 4x sightr lens2
+    100012: collimator sight
+    100014: Mufler 1
+    100016: Mufler 2
+    100018: scar cartrige
+    100020: scar h barrel
+    100022: scar h basic sight 1
+    100024: scar h basic sight 1-1
+    100026: scar h basic sight 2
+    100028: scar h basic sight 2-1
+    100030: scar h body
+    100032: scar h bolt
+    100034: scar h bullet
+    100036: scar h butt
+    100038: scar h handle
+    100040: scar h ring
+    100042: scar h switcher
+    100044: scar h trigger
+    100046: scar holder
+    100048: scar holder bullets
+    100050: scar used shell
+    100052: //RootNode
+    100054: rifle barrel
+    100056: rifle basic sight 1
+    100058: rifle basic sight 1-1
+    100060: rifle basic sight 2
+    100062: rifle basic sight 2-1
+    100064: rifle body
+    100066: rifle bolt
+    100068: rifle bullet
+    100070: rifle butt
+    100072: rifle cartrige
+    100074: rifle handle
+    100076: rifle holder
+    100078: rifle holder bullets
+    100080: rifle ring
+    100082: rifle switcher
+    100084: rifle trigger
+    100086: rifle used shell
+    400000: 12 x lens 1
+    400002: 12 x lens 2
+    400004: 12x sight
+    400006: 4x sight
+    400008: 4x sightr lens1
+    400010: 4x sightr lens2
+    400012: collimator sight
+    400014: Mufler 1
+    400016: Mufler 2
+    400018: scar cartrige
+    400020: scar h barrel
+    400022: scar h basic sight 1
+    400024: scar h basic sight 1-1
+    400026: scar h basic sight 2
+    400028: scar h basic sight 2-1
+    400030: scar h body
+    400032: scar h bolt
+    400034: scar h bullet
+    400036: scar h butt
+    400038: scar h handle
+    400040: scar h ring
+    400042: scar h switcher
+    400044: scar h trigger
+    400046: scar holder
+    400048: scar holder bullets
+    400050: scar used shell
+    400052: //RootNode
+    400054: rifle barrel
+    400056: rifle basic sight 1
+    400058: rifle basic sight 1-1
+    400060: rifle basic sight 2
+    400062: rifle basic sight 2-1
+    400064: rifle body
+    400066: rifle bolt
+    400068: rifle bullet
+    400070: rifle butt
+    400072: rifle cartrige
+    400074: rifle handle
+    400076: rifle holder
+    400078: rifle holder bullets
+    400080: rifle ring
+    400082: rifle switcher
+    400084: rifle trigger
+    400086: rifle used shell
+    2100000: Scar - H
+    2100002: Scar - H2
+    2100004: AIM 4x
+    2100006: Lens 2
+    2100008: Aim 12x
+    2100010: Lens 1
+    2100012: collimator sight
+    2100014: glass 4
+    2100016: Glock 17 module 1
+    2100018: muffler 2
+    2300000: 12 x lens 1
+    2300002: 12 x lens 2
+    2300004: 12x sight
+    2300006: 4x sight
+    2300008: 4x sightr lens1
+    2300010: 4x sightr lens2
+    2300012: collimator sight
+    2300014: Mufler 1
+    2300016: Mufler 2
+    2300018: scar cartrige
+    2300020: scar h barrel
+    2300022: scar h basic sight 1
+    2300024: scar h basic sight 1-1
+    2300026: scar h basic sight 2
+    2300028: scar h basic sight 2-1
+    2300030: scar h body
+    2300032: scar h bolt
+    2300034: scar h bullet
+    2300036: scar h butt
+    2300038: scar h handle
+    2300040: scar h ring
+    2300042: scar h switcher
+    2300044: scar h trigger
+    2300046: scar holder
+    2300048: scar holder bullets
+    2300050: scar used shell
+    2300052: rifle barrel
+    2300054: rifle basic sight 1
+    2300056: rifle basic sight 1-1
+    2300058: rifle basic sight 2
+    2300060: rifle basic sight 2-1
+    2300062: rifle body
+    2300064: rifle bolt
+    2300066: rifle bullet
+    2300068: rifle butt
+    2300070: rifle cartrige
+    2300072: rifle handle
+    2300074: rifle holder
+    2300076: rifle holder bullets
+    2300078: rifle ring
+    2300080: rifle switcher
+    2300082: rifle trigger
+    2300084: rifle used shell
+    3300000: 12 x lens 1
+    3300002: 12 x lens 2
+    3300004: 12x sight
+    3300006: 4x sight
+    3300008: 4x sightr lens1
+    3300010: 4x sightr lens2
+    3300012: collimator sight
+    3300014: Mufler 1
+    3300016: Mufler 2
+    3300018: scar cartrige
+    3300020: scar h barrel
+    3300022: scar h basic sight 1
+    3300024: scar h basic sight 1-1
+    3300026: scar h basic sight 2
+    3300028: scar h basic sight 2-1
+    3300030: scar h body
+    3300032: scar h bolt
+    3300034: scar h bullet
+    3300036: scar h butt
+    3300038: scar h handle
+    3300040: scar h ring
+    3300042: scar h switcher
+    3300044: scar h trigger
+    3300046: scar holder
+    3300048: scar holder bullets
+    3300050: scar used shell
+    3300052: rifle barrel
+    3300054: rifle basic sight 1
+    3300056: rifle basic sight 1-1
+    3300058: rifle basic sight 2
+    3300060: rifle basic sight 2-1
+    3300062: rifle body
+    3300064: rifle bolt
+    3300066: rifle bullet
+    3300068: rifle butt
+    3300070: rifle cartrige
+    3300072: rifle handle
+    3300074: rifle holder
+    3300076: rifle holder bullets
+    3300078: rifle ring
+    3300080: rifle switcher
+    3300082: rifle trigger
+    3300084: rifle used shell
+    4300000: scar h body
+    4300002: scar h butt
+    4300004: scar h trigger
+    4300006: scar h handle
+    4300008: scar h bolt
+    4300010: scar h switcher
+    4300012: scar h ring
+    4300014: scar holder
+    4300016: scar holder bullets
+    4300018: scar cartrige
+    4300020: scar used shell
+    4300022: scar h bullet
+    4300024: scar h basic sight 2
+    4300026: scar h basic sight 2-1
+    4300028: scar h basic sight 1
+    4300030: scar h basic sight 1-1
+    4300032: scar h barrel
+    4300034: 4x sight
+    4300036: 4x sightr lens2
+    4300038: 4x sightr lens1
+    4300040: 12x sight
+    4300042: 12 x lens 2
+    4300044: 12 x lens 1
+    4300046: collimator sight
+    4300048: Mufler 1
+    4300050: Mufler 2
+    4300052: rifle body
+    4300054: rifle butt
+    4300056: rifle trigger
+    4300058: rifle handle
+    4300060: rifle bolt
+    4300062: rifle switcher
+    4300064: rifle ring
+    4300066: rifle holder
+    4300068: rifle holder bullets
+    4300070: rifle cartrige
+    4300072: rifle used shell
+    4300074: rifle bullet
+    4300076: rifle basic sight 2
+    4300078: rifle basic sight 2-1
+    4300080: rifle basic sight 1
+    4300082: rifle basic sight 1-1
+    4300084: rifle barrel
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AIM 4x
+    second: {fileID: 2100000, guid: e38eada3a3c136f4fad19a0fafa430f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aim 12x
+    second: {fileID: 2100000, guid: 00dacd28e3c10a746ace2b9fde8a4cde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glock 17 module 1
+    second: {fileID: 2100000, guid: e67ef76b934a78341aa968a700a0b3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens 1
+    second: {fileID: 2100000, guid: 17e4935453563a3408394a4286037e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens 2
+    second: {fileID: 2100000, guid: 135b3f846cf989f4a96766ae7a2e5434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scar - H
+    second: {fileID: 2100000, guid: 62077c29c8855904dbf3375603e824bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scar - H2
+    second: {fileID: 2100000, guid: dbbffb70d6d8b5946920e276ec2e64d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: collimator sight
+    second: {fileID: 2100000, guid: c3b4db6891f663049adb40765238f622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 4
+    second: {fileID: 2100000, guid: 549394d95bf93cb4b9483ffa9b5b347c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muffler 2
+    second: {fileID: 2100000, guid: 371f15a144ede314d845b1ca6656e482, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Assault Rifle/Models/AssaultRifle.fbx
+  uploadId: 271015

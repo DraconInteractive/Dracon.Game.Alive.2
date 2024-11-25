@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 335c778fcfb9056418b42a7d43ef0559
+timeCreated: 1537274996
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/AmmoBox_SG.prefab
+  uploadId: 271015

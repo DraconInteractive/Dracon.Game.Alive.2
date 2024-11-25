@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: fe6e6a80eff2124409a202e0fee741df
+timeCreated: 1537269751
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: automatic bottle
+    100002: drugs
+    100004: injector
+    100006: injector bone 1
+    100008: injector bone 2
+    100010: injector bone 3
+    100012: injector bone 4
+    100014: injector moving parts
+    100016: injector trigger
+    100018: //RootNode
+    400000: automatic bottle
+    400002: drugs
+    400004: injector
+    400006: injector bone 1
+    400008: injector bone 2
+    400010: injector bone 3
+    400012: injector bone 4
+    400014: injector moving parts
+    400016: injector trigger
+    400018: //RootNode
+    2100000: substance
+    2100002: automatic injector 1
+    2100004: kolba 1
+    2100006: kolba within
+    2300000: automatic bottle
+    2300002: injector
+    2300004: injector moving parts
+    2300006: injector trigger
+    2300008: drugs
+    3300000: automatic bottle
+    3300002: injector
+    3300004: injector moving parts
+    3300006: injector trigger
+    3300008: drugs
+    4300000: drugs
+    4300002: injector
+    4300004: injector moving parts
+    4300006: injector trigger
+    4300008: automatic bottle
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: drugs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: automatic injector 1
+    second: {fileID: 2100000, guid: 021ec9bea1a4b5d49b02eab533f44053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kolba 1
+    second: {fileID: 2100000, guid: 0e4015c87dda7194a9cd9b180580dec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kolba within
+    second: {fileID: 2100000, guid: 6d392afa75d4cb441b093ef0b9e2258c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: substance
+    second: {fileID: 2100000, guid: b982553f46aa11344b224b48140f26a0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 13
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Injector/Models/Injector_Rigged.fbx
+  uploadId: 271015

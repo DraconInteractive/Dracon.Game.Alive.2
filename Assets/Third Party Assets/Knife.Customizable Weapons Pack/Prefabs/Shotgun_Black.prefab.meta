@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 653089777c8884d4fb7198871d359a80
+timeCreated: 1537274823
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/Shotgun_Black.prefab
+  uploadId: 271015

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e8bcf565cae41634583b3f6035775836
+timeCreated: 1537259796
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Shotgun/Materials/Shotgun_Black/Shotgun_Black.mat
+  uploadId: 271015

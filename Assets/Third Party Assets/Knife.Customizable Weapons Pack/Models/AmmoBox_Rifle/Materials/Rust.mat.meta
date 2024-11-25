@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1cefa84ae40b2547b8106ee520e6338
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/AmmoBox_Rifle/Materials/Rust.mat
+  uploadId: 271015

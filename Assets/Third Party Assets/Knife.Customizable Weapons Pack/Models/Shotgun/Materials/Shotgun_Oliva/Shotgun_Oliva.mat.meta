@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ece421f9d6304c140907dc630ca909db
+timeCreated: 1537259796
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Shotgun/Materials/Shotgun_Oliva/Shotgun_Oliva.mat
+  uploadId: 271015

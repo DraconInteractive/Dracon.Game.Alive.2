@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 0ea57f0c3eab1fd41baaf2c4d1065c50
+timeCreated: 1537263372
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Flash Hider
+    100002: //RootNode
+    100004: Glock   Picatini
+    100006: Glock Barrel
+    100008: Glock Body
+    100010: Glock Bolt
+    100012: Glock bullet
+    100014: Glock Button 1
+    100016: Glock Button 2
+    100018: Glock Button 3
+    100020: Glock cartridge
+    100022: Glock cartridges
+    100024: Glock cartridges 1
+    100026: Glock Mag 19
+    100028: Glock Mag 33
+    100030: Glock Sight 1
+    100032: Glock Sight 2
+    100034: Glock Trigger
+    100036: Glock used shell
+    100038: Laser Sight 1
+    100040: Laser Sight 2
+    100042: Mufler 1
+    100044: Mufler 2
+    100046: Muzzle Brake
+    100048: barrel
+    100050: Box004
+    100052: 'gun silencer '
+    100054: laser sight 1
+    100056: laser sight 2
+    100058: 'Lath '
+    100060: nozzle 1
+    100062: nozzle 2
+    100064: Object001
+    100066: Object002
+    100068: Object003
+    100070: Object012
+    100072: Sight 1
+    100074: Sight 2
+    100076: Pistol   Picatini
+    100078: Pistol Body
+    100080: Pistol bullet
+    100082: Pistol cartridge
+    100084: Pistol Sight 1
+    100086: Pistol Sight 2
+    100088: Pistol Trigger
+    100090: Pistol used shell
+    100092: Pistol Barrel
+    100094: Pistol Bolt
+    100096: Pistol Button 1
+    100098: Pistol Button 2
+    100100: Pistol Button 3
+    100102: Pistol cartridges
+    100104: Pistol cartridges 1
+    100106: Pistol Mag 19
+    100108: Pistol Mag 33
+    400000: Flash Hider
+    400002: //RootNode
+    400004: Glock   Picatini
+    400006: Glock Barrel
+    400008: Glock Body
+    400010: Glock Bolt
+    400012: Glock bullet
+    400014: Glock Button 1
+    400016: Glock Button 2
+    400018: Glock Button 3
+    400020: Glock cartridge
+    400022: Glock cartridges
+    400024: Glock cartridges 1
+    400026: Glock Mag 19
+    400028: Glock Mag 33
+    400030: Glock Sight 1
+    400032: Glock Sight 2
+    400034: Glock Trigger
+    400036: Glock used shell
+    400038: Laser Sight 1
+    400040: Laser Sight 2
+    400042: Mufler 1
+    400044: Mufler 2
+    400046: Muzzle Brake
+    400048: barrel
+    400050: Box004
+    400052: 'gun silencer '
+    400054: laser sight 1
+    400056: laser sight 2
+    400058: 'Lath '
+    400060: nozzle 1
+    400062: nozzle 2
+    400064: Object001
+    400066: Object002
+    400068: Object003
+    400070: Object012
+    400072: Sight 1
+    400074: Sight 2
+    400076: Pistol   Picatini
+    400078: Pistol Body
+    400080: Pistol bullet
+    400082: Pistol cartridge
+    400084: Pistol Sight 1
+    400086: Pistol Sight 2
+    400088: Pistol Trigger
+    400090: Pistol used shell
+    400092: Pistol Barrel
+    400094: Pistol Bolt
+    400096: Pistol Button 1
+    400098: Pistol Button 2
+    400100: Pistol Button 3
+    400102: Pistol cartridges
+    400104: Pistol cartridges 1
+    400106: Pistol Mag 19
+    400108: Pistol Mag 33
+    2100000: Glock 17 -1-
+    2100002: Glock 17 module 1
+    2100004: Glass 1
+    2100006: Glock 17 module 2
+    2100008: Glass 2
+    2100010: muffler 2
+    2300000: Flash Hider
+    2300002: Glock   Picatini
+    2300004: Glock Barrel
+    2300006: Glock Body
+    2300008: Glock Bolt
+    2300010: Glock bullet
+    2300012: Glock Button 1
+    2300014: Glock Button 2
+    2300016: Glock Button 3
+    2300018: Glock cartridge
+    2300020: Glock cartridges
+    2300022: Glock cartridges 1
+    2300024: Glock Mag 19
+    2300026: Glock Mag 33
+    2300028: Glock Sight 1
+    2300030: Glock Sight 2
+    2300032: Glock Trigger
+    2300034: Glock used shell
+    2300036: Laser Sight 1
+    2300038: Laser Sight 2
+    2300040: Mufler 1
+    2300042: Mufler 2
+    2300044: Muzzle Brake
+    2300046: barrel
+    2300048: Box004
+    2300050: 'gun silencer '
+    2300052: laser sight 1
+    2300054: laser sight 2
+    2300056: 'Lath '
+    2300058: nozzle 1
+    2300060: nozzle 2
+    2300062: Object001
+    2300064: Object002
+    2300066: Object003
+    2300068: Object012
+    2300070: Sight 1
+    2300072: Sight 2
+    2300074: Pistol   Picatini
+    2300076: Pistol Body
+    2300078: Pistol bullet
+    2300080: Pistol cartridge
+    2300082: Pistol Sight 1
+    2300084: Pistol Sight 2
+    2300086: Pistol Trigger
+    2300088: Pistol used shell
+    2300090: Pistol Barrel
+    2300092: Pistol Bolt
+    2300094: Pistol Button 1
+    2300096: Pistol Button 2
+    2300098: Pistol Button 3
+    2300100: Pistol cartridges
+    2300102: Pistol cartridges 1
+    2300104: Pistol Mag 19
+    2300106: Pistol Mag 33
+    3300000: Flash Hider
+    3300002: Glock   Picatini
+    3300004: Glock Barrel
+    3300006: Glock Body
+    3300008: Glock Bolt
+    3300010: Glock bullet
+    3300012: Glock Button 1
+    3300014: Glock Button 2
+    3300016: Glock Button 3
+    3300018: Glock cartridge
+    3300020: Glock cartridges
+    3300022: Glock cartridges 1
+    3300024: Glock Mag 19
+    3300026: Glock Mag 33
+    3300028: Glock Sight 1
+    3300030: Glock Sight 2
+    3300032: Glock Trigger
+    3300034: Glock used shell
+    3300036: Laser Sight 1
+    3300038: Laser Sight 2
+    3300040: Mufler 1
+    3300042: Mufler 2
+    3300044: Muzzle Brake
+    3300046: barrel
+    3300048: Box004
+    3300050: 'gun silencer '
+    3300052: laser sight 1
+    3300054: laser sight 2
+    3300056: 'Lath '
+    3300058: nozzle 1
+    3300060: nozzle 2
+    3300062: Object001
+    3300064: Object002
+    3300066: Object003
+    3300068: Object012
+    3300070: Sight 1
+    3300072: Sight 2
+    3300074: Pistol   Picatini
+    3300076: Pistol Body
+    3300078: Pistol bullet
+    3300080: Pistol cartridge
+    3300082: Pistol Sight 1
+    3300084: Pistol Sight 2
+    3300086: Pistol Trigger
+    3300088: Pistol used shell
+    3300090: Pistol Barrel
+    3300092: Pistol Bolt
+    3300094: Pistol Button 1
+    3300096: Pistol Button 2
+    3300098: Pistol Button 3
+    3300100: Pistol cartridges
+    3300102: Pistol cartridges 1
+    3300104: Pistol Mag 19
+    3300106: Pistol Mag 33
+    4300000: Glock Body
+    4300002: Glock Button 3
+    4300004: Glock Button 2
+    4300006: Glock Button 1
+    4300008: Glock Barrel
+    4300010: Glock Bolt
+    4300012: Glock Sight 1
+    4300014: Glock Trigger
+    4300016: Glock Mag 19
+    4300018: Glock cartridges
+    4300020: Glock Mag 33
+    4300022: Glock cartridges 1
+    4300024: Glock cartridge
+    4300026: Laser Sight 2
+    4300028: Muzzle Brake
+    4300030: Laser Sight 1
+    4300032: Mufler 1
+    4300034: Flash Hider
+    4300036: Glock   Picatini
+    4300038: Glock Sight 2
+    4300040: Mufler 2
+    4300042: Glock bullet
+    4300044: Glock used shell
+    4300046: Box004
+    4300048: Object001
+    4300050: Object002
+    4300052: Object003
+    4300054: barrel
+    4300056: Object012
+    4300058: laser sight 2
+    4300060: nozzle 2
+    4300062: laser sight 1
+    4300064: 'gun silencer '
+    4300066: nozzle 1
+    4300068: 'Lath '
+    4300070: Sight 1
+    4300072: Sight 2
+    4300074: Pistol Body
+    4300076: Pistol Sight 1
+    4300078: Pistol Trigger
+    4300080: Pistol cartridge
+    4300082: Pistol   Picatini
+    4300084: Pistol Sight 2
+    4300086: Pistol bullet
+    4300088: Pistol used shell
+    4300090: Pistol Button 3
+    4300092: Pistol Button 2
+    4300094: Pistol Button 1
+    4300096: Pistol Barrel
+    4300098: Pistol Bolt
+    4300100: Pistol Mag 19
+    4300102: Pistol cartridges
+    4300104: Pistol Mag 33
+    4300106: Pistol cartridges 1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass 1
+    second: {fileID: 2100000, guid: 733858bcf9775304bad0c655293a4d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass 2
+    second: {fileID: 2100000, guid: 0798280ff4aae524d9a2af35af057bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glock 17 -1-
+    second: {fileID: 2100000, guid: f2197a7ffbd5ef44caeff6b23b59635d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glock 17 module 1
+    second: {fileID: 2100000, guid: 0fd81e482591da74cb8eb0692955e607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glock 17 module 2
+    second: {fileID: 2100000, guid: 06290ce2cff193d43bf0be0bc54430c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muffler 2
+    second: {fileID: 2100000, guid: 65353b0773aa65b49acf0fc8933b83f7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Pistol/Models/Pistol.fbx
+  uploadId: 271015

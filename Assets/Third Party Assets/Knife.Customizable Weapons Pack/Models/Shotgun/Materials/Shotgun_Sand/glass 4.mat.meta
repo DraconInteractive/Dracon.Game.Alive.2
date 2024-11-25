@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4e8bc6e031f9e474dbc906f2f8238800
+timeCreated: 1537259796
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Shotgun/Materials/Shotgun_Sand/glass
+    4.mat
+  uploadId: 271015

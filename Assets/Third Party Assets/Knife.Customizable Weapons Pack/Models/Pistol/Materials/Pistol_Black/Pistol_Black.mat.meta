@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2197a7ffbd5ef44caeff6b23b59635d
+timeCreated: 1537263392
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Pistol/Materials/Pistol_Black/Pistol_Black.mat
+  uploadId: 271015

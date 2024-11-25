@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fd81e482591da74cb8eb0692955e607
+timeCreated: 1537263392
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Pistol/Materials/Pistol_Black/Muffler
+    1.mat
+  uploadId: 271015

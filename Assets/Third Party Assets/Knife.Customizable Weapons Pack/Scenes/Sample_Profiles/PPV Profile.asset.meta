@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a1a28777171161e4a94ddc3b5e1a3de7
+timeCreated: 1537260366
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Scenes/Sample_Profiles/PPV Profile.asset
+  uploadId: 271015

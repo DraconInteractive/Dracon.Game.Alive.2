@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2ff0d3b168c59f142967929d41b37e9e
+timeCreated: 1537259796
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Shotgun/Materials/Shotgun_Sand/Shotgun_Sand_Butt.mat
+  uploadId: 271015

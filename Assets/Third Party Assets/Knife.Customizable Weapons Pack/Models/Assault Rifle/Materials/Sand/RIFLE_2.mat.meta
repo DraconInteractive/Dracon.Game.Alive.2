@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fb6c24fba41d1d146be2b0ff689349ba
+timeCreated: 1537265691
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Assault Rifle/Materials/Sand/RIFLE_2.mat
+  uploadId: 271015

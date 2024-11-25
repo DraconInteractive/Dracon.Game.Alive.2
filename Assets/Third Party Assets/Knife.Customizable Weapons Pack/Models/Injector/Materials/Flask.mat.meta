@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0e4015c87dda7194a9cd9b180580dec1
+timeCreated: 1537269828
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Injector/Materials/Flask.mat
+  uploadId: 271015

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1f4077337c668d6479b10741ad777d99
+timeCreated: 1537273152
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/AssaultRifle_Sand.prefab
+  uploadId: 271015

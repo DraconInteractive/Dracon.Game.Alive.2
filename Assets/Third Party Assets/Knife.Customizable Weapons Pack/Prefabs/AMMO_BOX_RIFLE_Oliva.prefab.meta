@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7231614183d4b9747a05f02f64dce18d
+timeCreated: 1537274870
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/AMMO_BOX_RIFLE_Oliva.prefab
+  uploadId: 271015

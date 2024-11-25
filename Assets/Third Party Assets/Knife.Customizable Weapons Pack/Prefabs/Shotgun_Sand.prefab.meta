@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a738925e275a0d848a3693c626358006
+timeCreated: 1537274825
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Prefabs/Shotgun_Sand.prefab
+  uploadId: 271015

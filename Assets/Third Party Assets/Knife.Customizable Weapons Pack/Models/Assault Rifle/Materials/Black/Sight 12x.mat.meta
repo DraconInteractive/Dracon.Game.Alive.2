@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 00dacd28e3c10a746ace2b9fde8a4cde
+timeCreated: 1537265690
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Assault Rifle/Materials/Black/Sight
+    12x.mat
+  uploadId: 271015

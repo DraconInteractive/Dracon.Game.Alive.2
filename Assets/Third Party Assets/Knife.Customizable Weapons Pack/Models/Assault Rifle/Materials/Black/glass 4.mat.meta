@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 549394d95bf93cb4b9483ffa9b5b347c
+timeCreated: 1537265691
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Assault Rifle/Materials/Black/glass
+    4.mat
+  uploadId: 271015

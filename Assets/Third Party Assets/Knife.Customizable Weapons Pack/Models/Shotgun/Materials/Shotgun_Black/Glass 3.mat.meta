@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1d7ca08a65ac774499a4b80d50ffae7
+timeCreated: 1537259796
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127022
+  packageName: Customizable Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Knife.Customizable Weapons Pack/Models/Shotgun/Materials/Shotgun_Black/Glass
+    3.mat
+  uploadId: 271015
