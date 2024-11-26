@@ -654,6 +654,13 @@ MonoBehaviour:
   Camera: {fileID: 3606469189014726106}
   Interaction: {fileID: 2916053655198348601}
   Input: {fileID: 3184932984831068317}
+  MovementController: {fileID: 3700441733776734220}
+  standardWalkSpeed: 2
+  combatWalkSpeed: 2
+  standardRunSpeed: 5.3
+  combatRunSpeed: 5.3
+  standardRotationSmoothTime: 0.12
+  combatRotationSmoothTime: 0.025
   combatUIGroup: {fileID: 8389820672708973313}
 --- !u!114 &5708167934791857767
 MonoBehaviour:
@@ -2363,6 +2370,17 @@ PrefabInstance:
       addedObject: {fileID: 1970481671047934750}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+--- !u!114 &3700441733776734220 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4416926081852918490, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  m_PrefabInstance: {fileID: 1015155962657026774}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e54e5a728a9234ab24fcf1460ed8a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &4040094497248027325 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}

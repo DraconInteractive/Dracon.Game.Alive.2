@@ -1,13 +1,31 @@
 using Dracon;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 public class Player : Sentient
 {
+    [Header("Player")]
     public static Player Instance;
     public PlayerCameraController Camera;
     public PlayerInteraction Interaction;
     public PlayerInput Input;
 
+    [Space, Header("Movement")] 
+    public StarterAssets.ThirdPersonController MovementController;
+    
+    [Space, FoldoutGroup("Movement Settings")] 
+    public float standardWalkSpeed = 2f;
+    [FoldoutGroup("Movement Settings")] 
+    public float combatWalkSpeed = 2f;
+    [FoldoutGroup("Movement Settings")] 
+    public float standardRunSpeed = 5.3f;
+    [FoldoutGroup("Movement Settings")] 
+    public float combatRunSpeed = 5.3f;
+    [FoldoutGroup("Movement Settings")] 
+    public float standardRotationSmoothTime = 0.12f;
+    [FoldoutGroup("Movement Settings")] 
+    public float combatRotationSmoothTime = 0.12f;
+    
     [Space, Header("UI")] 
     public CanvasGroup combatUIGroup;
     
@@ -29,6 +47,10 @@ public class Player : Sentient
         Camera.SetCombat(false);
         combatUIGroup.alpha = 1;
         primaryAnimator.SetBool(A_Combat, true);
+        MovementController.MoveSpeed = combatWalkSpeed;
+        MovementController.SprintSpeed = combatRunSpeed;
+        MovementController.RotationSmoothTime = combatRotationSmoothTime;
+        MovementController.StrafingMode = true;
     }
 
     public override void ExitCombat()
@@ -37,6 +59,10 @@ public class Player : Sentient
         Camera.SetStandard();
         combatUIGroup.alpha = 0;
         primaryAnimator.SetBool(A_Combat, false);
+        MovementController.MoveSpeed = standardWalkSpeed;
+        MovementController.SprintSpeed = standardRunSpeed;
+        MovementController.RotationSmoothTime = standardRotationSmoothTime;
+        MovementController.StrafingMode = false;
     }
 
     public void OnZoom(bool zoomed)
