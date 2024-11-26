@@ -11,6 +11,8 @@ public class Player : Sentient
     [Space, Header("UI")] 
     public CanvasGroup combatUIGroup;
     
+    private static readonly int A_Combat = Animator.StringToHash("InCombat");
+
     protected override void InternalAwake()
     {
         base.InternalAwake();
@@ -26,6 +28,7 @@ public class Player : Sentient
         base.EnterCombat();
         Camera.SetCombat(false);
         combatUIGroup.alpha = 1;
+        primaryAnimator.SetBool(A_Combat, true);
     }
 
     public override void ExitCombat()
@@ -33,6 +36,7 @@ public class Player : Sentient
         base.ExitCombat();
         Camera.SetStandard();
         combatUIGroup.alpha = 0;
+        primaryAnimator.SetBool(A_Combat, false);
     }
 
     public void OnZoom(bool zoomed)

@@ -649,6 +649,7 @@ MonoBehaviour:
     moveSpeed:
       Current: 0
       Base: 0
+  primaryAnimator: {fileID: 7994276773389367495}
   InCombat: 0
   Camera: {fileID: 3606469189014726106}
   Interaction: {fileID: 2916053655198348601}
@@ -2372,6 +2373,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6044159111065775861, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
   m_PrefabInstance: {fileID: 1015155962657026774}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &7994276773389367495 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 6982812146204527121, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  m_PrefabInstance: {fileID: 1015155962657026774}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &9055761468539994459 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8338988566280778637, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
@@ -2766,6 +2772,18 @@ PrefabInstance:
     - target: {fileID: 2070925441746177913, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_Lens.NearClipPlane
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+      propertyPath: Damping.x
+      value: 0.025
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+      propertyPath: Damping.y
+      value: 0.075
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+      propertyPath: Damping.z
+      value: 0.075
       objectReference: {fileID: 0}
     - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: CameraSide
@@ -3292,6 +3310,18 @@ PrefabInstance:
     - target: {fileID: 2070925441746177913, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_Lens.NearClipPlane
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+      propertyPath: Damping.x
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+      propertyPath: Damping.y
+      value: 0.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+      propertyPath: Damping.z
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 2070925442191277752, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: CameraSide

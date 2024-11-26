@@ -10,6 +10,7 @@ public class Sentient : SerializedMonoBehaviour
     [Header("Sentient")]
     public Inventory inventory;
     public SentientStats stats;
+    public Animator primaryAnimator;
     public bool InCombat;
 
     private SentientModule[] modules;
