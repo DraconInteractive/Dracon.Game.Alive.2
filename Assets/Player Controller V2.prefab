@@ -558,9 +558,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2505587239214213216}
   - component: {fileID: 5390510440958110227}
-  - component: {fileID: 5708167934791857767}
   - component: {fileID: 2916053655198348601}
   - component: {fileID: 3184932984831068317}
+  - component: {fileID: 4592142263704464726}
   m_Layer: 0
   m_Name: Player Controller V2
   m_TagString: Untagged
@@ -610,7 +610,7 @@ MonoBehaviour:
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
     SerializationNodes: []
-  inventory: {fileID: 5708167934791857767}
+  inventory: {fileID: 4592142263704464726}
   stats:
     level: 0
     strength:
@@ -662,28 +662,6 @@ MonoBehaviour:
   standardRotationSmoothTime: 0.12
   combatRotationSmoothTime: 0.025
   combatUIGroup: {fileID: 8389820672708973313}
---- !u!114 &5708167934791857767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3878790169483126836}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df612b7d6eb658c438024618f387013f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
-    ReferencedUnityObjects: []
-    SerializedBytesString: 
-    Prefab: {fileID: 0}
-    PrefabModificationsReferencedUnityObjects: []
-    PrefabModifications: []
-    SerializationNodes: []
-  items: []
 --- !u!114 &2916053655198348601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -992,6 +970,29 @@ MonoBehaviour:
       Entry: 8
       Data: 
   lastLog: 
+--- !u!114 &4592142263704464726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3878790169483126836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137cf5e9ac9bf864d8dff398135ca259, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  items: []
+  slots: []
 --- !u!1 &3938686475182442904
 GameObject:
   m_ObjectHideFlags: 0

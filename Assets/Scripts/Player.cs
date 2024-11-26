@@ -1,3 +1,5 @@
+using System;
+using System.Linq;
 using Dracon;
 using Sirenix.OdinInspector;
 using UnityEngine;
@@ -25,6 +27,9 @@ public class Player : Sentient
     public float standardRotationSmoothTime = 0.12f;
     [FoldoutGroup("Movement Settings")] 
     public float combatRotationSmoothTime = 0.12f;
+
+    [Header("Combat")] 
+    public GameObject gunObj;
     
     [Space, Header("UI")] 
     public CanvasGroup combatUIGroup;
@@ -41,6 +46,11 @@ public class Player : Sentient
         Instance = this;
     }
 
+    private void Start()
+    {
+        
+    }
+
     public override void EnterCombat()
     {
         base.EnterCombat();
@@ -51,6 +61,7 @@ public class Player : Sentient
         MovementController.SprintSpeed = combatRunSpeed;
         MovementController.RotationSmoothTime = combatRotationSmoothTime;
         MovementController.StrafingMode = true;
+        gunObj.SetActive(true);
     }
 
     public override void ExitCombat()
@@ -63,6 +74,8 @@ public class Player : Sentient
         MovementController.SprintSpeed = standardRunSpeed;
         MovementController.RotationSmoothTime = standardRotationSmoothTime;
         MovementController.StrafingMode = false;
+        gunObj.SetActive(false);
+
     }
 
     public void OnZoom(bool zoomed)

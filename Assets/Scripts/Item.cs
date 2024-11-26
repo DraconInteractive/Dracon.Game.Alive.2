@@ -69,6 +69,20 @@ public class Item : ScriptableObject
 [System.Serializable]
 public class ItemInstance
 {
+    private string _id;
+
+    public string ID
+    {
+        get
+        {
+            if (string.IsNullOrEmpty(_id))
+            {
+                _id = Guid.NewGuid().ToString();
+            }
+
+            return _id;
+        }
+    }
     public Item archetype;
     public int StackSize = 1; // For non-stackables, will default to 1
     [SerializeReference]

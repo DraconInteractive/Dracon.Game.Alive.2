@@ -1,4 +1,5 @@
-using Sirenix.OdinInspector;using UnityEngine;
+using Sirenix.OdinInspector;
+using UnityEngine;
 
 public class SentientModule : SerializedMonoBehaviour
 {
